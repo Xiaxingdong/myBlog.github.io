@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.xiaxingdong.com/"/>
-  <updated>2020-01-21T02:16:50.781Z</updated>
+  <updated>2020-01-21T16:51:46.242Z</updated>
   <id>https://www.xiaxingdong.com/</id>
   
   <author>
@@ -17,17 +17,63 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>bookStore</title>
-    <link href="https://www.xiaxingdong.com/posts/2049854560.html"/>
-    <id>https://www.xiaxingdong.com/posts/2049854560.html</id>
-    <published>2020-01-19T01:23:10.000Z</published>
-    <updated>2020-01-21T02:16:50.781Z</updated>
+    <title>bookStore2</title>
+    <link href="https://www.xiaxingdong.com/posts/1461580057.html"/>
+    <id>https://www.xiaxingdong.com/posts/1461580057.html</id>
+    <published>2020-01-21T08:17:55.000Z</published>
+    <updated>2020-01-21T16:51:46.242Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Tue Jan 21 2020 13:33:06 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;黑马考试书籍旗舰店&quot;&gt;&lt;a href=&quot;#黑马考试书籍旗舰店&quot; class=&quot;headerlink&quot; title=&quot;黑马考试书籍旗舰店
+        &lt;!-- build time:Wed Jan 22 2020 00:52:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;在bookStore项目中,采用了分布式dubbo服务部署,不知什么原因mybatis的分页插件不起作用,此次采用单纯分
+      
+    
+    </summary>
+    
+    
+    
+      <category term="ssm 项目" scheme="https://www.xiaxingdong.com/tags/ssm-%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>spring_mvc</title>
+    <link href="https://www.xiaxingdong.com/posts/2573166209.html"/>
+    <id>https://www.xiaxingdong.com/posts/2573166209.html</id>
+    <published>2020-01-21T06:02:29.000Z</published>
+    <updated>2020-01-21T16:51:39.922Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jan 22 2020 00:52:23 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Springmvc从入门到粗通&quot;&gt;&lt;a href=&quot;#Springmvc从入门到粗通&quot; class=&quot;headerlink&quot; titl
+      
+    
+    </summary>
+    
+    
+      <category term="框架" scheme="https://www.xiaxingdong.com/categories/%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="springmvc" scheme="https://www.xiaxingdong.com/tags/springmvc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>bookStore</title>
+    <link href="https://www.xiaxingdong.com/posts/2049854560.html"/>
+    <id>https://www.xiaxingdong.com/posts/2049854560.html</id>
+    <published>2020-01-19T01:23:10.000Z</published>
+    <updated>2020-01-21T16:51:33.389Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jan 22 2020 00:52:24 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;黑马考试书籍旗舰店&quot;&gt;&lt;a href=&quot;#黑马考试书籍旗舰店&quot; class=&quot;headerlink&quot; title=&quot;黑马考试书籍旗舰店
       
     
     </summary>
@@ -51,7 +97,7 @@
     
       
       
-        &lt;!-- build time:Tue Jan 21 2020 13:33:06 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Vue-js&quot;&gt;&lt;a href=&quot;#Vue-js&quot; class=&quot;headerlink&quot; title=&quot;Vue_js&quot;&gt;&lt;/a&gt;Vue
+        &lt;!-- build time:Wed Jan 22 2020 00:52:24 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Vue-js&quot;&gt;&lt;a href=&quot;#Vue-js&quot; class=&quot;headerlink&quot; title=&quot;Vue_js&quot;&gt;&lt;/a&gt;Vue
       
     
     </summary>
@@ -73,7 +119,7 @@
     
       
       
-        &lt;!-- build time:Tue Jan 21 2020 13:33:06 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Element-UI&quot;&gt;&lt;a href=&quot;#Element-UI&quot; class=&quot;headerlink&quot; title=&quot;Element
+        &lt;!-- build time:Wed Jan 22 2020 00:52:24 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Element-UI&quot;&gt;&lt;a href=&quot;#Element-UI&quot; class=&quot;headerlink&quot; title=&quot;Element
       
     
     </summary>
@@ -93,7 +139,7 @@
     
       
       
-        &lt;!-- build time:Tue Jan 21 2020 13:33:06 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;项目概述&quot;&gt;&lt;a href=&quot;#项目概述&quot; class=&quot;headerlink&quot; title=&quot;项目概述&quot;&gt;&lt;/a&gt;项目概述&lt;/h2&gt;
+        &lt;!-- build time:Wed Jan 22 2020 00:52:24 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;项目概述&quot;&gt;&lt;a href=&quot;#项目概述&quot; class=&quot;headerlink&quot; title=&quot;项目概述&quot;&gt;&lt;/a&gt;项目概述&lt;/h2&gt;
       
     
     </summary>
@@ -115,7 +161,7 @@
     
       
       
-        &lt;!-- build time:Tue Jan 21 2020 13:33:06 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Apache-Dubbo&quot;&gt;&lt;a href=&quot;#Apache-Dubbo&quot; class=&quot;headerlink&quot; title=&quot;Apa
+        &lt;!-- build time:Wed Jan 22 2020 00:52:23 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Apache-Dubbo&quot;&gt;&lt;a href=&quot;#Apache-Dubbo&quot; class=&quot;headerlink&quot; title=&quot;Apa
       
     
     </summary>
