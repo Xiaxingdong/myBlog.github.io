@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.xiaxingdong.com/"/>
-  <updated>2020-01-21T16:51:46.242Z</updated>
+  <updated>2020-01-22T08:42:46.102Z</updated>
   <id>https://www.xiaxingdong.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>demo3</title>
+    <link href="https://www.xiaxingdong.com/posts/3151130540.html"/>
+    <id>https://www.xiaxingdong.com/posts/3151130540.html</id>
+    <published>2020-01-22T08:42:46.000Z</published>
+    <updated>2020-01-22T08:42:46.102Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jan 22 2020 16:44:01 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat --&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>bookStore2</title>
@@ -27,7 +47,7 @@
     
       
       
-        &lt;!-- build time:Wed Jan 22 2020 00:52:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;在bookStore项目中,采用了分布式dubbo服务部署,不知什么原因mybatis的分页插件不起作用,此次采用单纯分
+        &lt;!-- build time:Wed Jan 22 2020 16:44:01 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;在bookStore项目中,采用了分布式dubbo服务部署,不知什么原因mybatis的分页插件不起作用,此次采用单纯分
       
     
     </summary>
@@ -49,7 +69,7 @@
     
       
       
-        &lt;!-- build time:Wed Jan 22 2020 00:52:23 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Springmvc从入门到粗通&quot;&gt;&lt;a href=&quot;#Springmvc从入门到粗通&quot; class=&quot;headerlink&quot; titl
+        &lt;!-- build time:Wed Jan 22 2020 16:44:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Springmvc从入门到粗通&quot;&gt;&lt;a href=&quot;#Springmvc从入门到粗通&quot; class=&quot;headerlink&quot; titl
       
     
     </summary>
@@ -73,7 +93,7 @@
     
       
       
-        &lt;!-- build time:Wed Jan 22 2020 00:52:24 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;黑马考试书籍旗舰店&quot;&gt;&lt;a href=&quot;#黑马考试书籍旗舰店&quot; class=&quot;headerlink&quot; title=&quot;黑马考试书籍旗舰店
+        &lt;!-- build time:Wed Jan 22 2020 16:44:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;黑马考试书籍旗舰店&quot;&gt;&lt;a href=&quot;#黑马考试书籍旗舰店&quot; class=&quot;headerlink&quot; title=&quot;黑马考试书籍旗舰店
       
     
     </summary>
@@ -97,7 +117,7 @@
     
       
       
-        &lt;!-- build time:Wed Jan 22 2020 00:52:24 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Vue-js&quot;&gt;&lt;a href=&quot;#Vue-js&quot; class=&quot;headerlink&quot; title=&quot;Vue_js&quot;&gt;&lt;/a&gt;Vue
+        &lt;!-- build time:Wed Jan 22 2020 16:44:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Vue-js&quot;&gt;&lt;a href=&quot;#Vue-js&quot; class=&quot;headerlink&quot; title=&quot;Vue_js&quot;&gt;&lt;/a&gt;Vue
       
     
     </summary>
@@ -119,7 +139,7 @@
     
       
       
-        &lt;!-- build time:Wed Jan 22 2020 00:52:24 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Element-UI&quot;&gt;&lt;a href=&quot;#Element-UI&quot; class=&quot;headerlink&quot; title=&quot;Element
+        &lt;!-- build time:Wed Jan 22 2020 16:44:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Element-UI&quot;&gt;&lt;a href=&quot;#Element-UI&quot; class=&quot;headerlink&quot; title=&quot;Element
       
     
     </summary>
@@ -139,7 +159,7 @@
     
       
       
-        &lt;!-- build time:Wed Jan 22 2020 00:52:24 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;项目概述&quot;&gt;&lt;a href=&quot;#项目概述&quot; class=&quot;headerlink&quot; title=&quot;项目概述&quot;&gt;&lt;/a&gt;项目概述&lt;/h2&gt;
+        &lt;!-- build time:Wed Jan 22 2020 16:44:01 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;项目概述&quot;&gt;&lt;a href=&quot;#项目概述&quot; class=&quot;headerlink&quot; title=&quot;项目概述&quot;&gt;&lt;/a&gt;项目概述&lt;/h2&gt;
       
     
     </summary>
@@ -161,7 +181,7 @@
     
       
       
-        &lt;!-- build time:Wed Jan 22 2020 00:52:23 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Apache-Dubbo&quot;&gt;&lt;a href=&quot;#Apache-Dubbo&quot; class=&quot;headerlink&quot; title=&quot;Apa
+        &lt;!-- build time:Wed Jan 22 2020 16:44:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Apache-Dubbo&quot;&gt;&lt;a href=&quot;#Apache-Dubbo&quot; class=&quot;headerlink&quot; title=&quot;Apa
       
     
     </summary>
