@@ -3,11 +3,11 @@
   <title>Java从入门到入土</title>
   
   <subtitle>Love Java,Love life!!</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/myBlog.github.io/atom.xml" rel="self"/>
   
-  <link href="https://www.xiaxingdong.com/"/>
+  <link href="https://xiaxingdong.github.io/myBlog.github.io/"/>
   <updated>2020-01-22T17:24:11.326Z</updated>
-  <id>https://www.xiaxingdong.com/</id>
+  <id>https://xiaxingdong.github.io/myBlog.github.io/</id>
   
   <author>
     <name>星动</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>demo5</title>
-    <link href="https://www.xiaxingdong.com/posts/1387383449.html"/>
-    <id>https://www.xiaxingdong.com/posts/1387383449.html</id>
+    <link href="https://xiaxingdong.github.io/myBlog.github.io/posts/1387383449.html"/>
+    <id>https://xiaxingdong.github.io/myBlog.github.io/posts/1387383449.html</id>
     <published>2020-01-22T16:57:19.000Z</published>
     <updated>2020-01-22T17:24:11.326Z</updated>
     
@@ -27,7 +27,7 @@
     
       
       
-        &lt;!-- build time:Thu Jan 23 2020 01:30:50 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;&lt;p&gt;sdfsdfsdfkj&lt;/p&gt;&lt;p&gt;sdfsdf sfs
+        &lt;!-- build time:Thu Jan 23 2020 01:36:06 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;&lt;p&gt;sdfsdfsdfkj&lt;/p&gt;&lt;p&gt;sdfsdf sfs
       
     
     </summary>
@@ -38,8 +38,8 @@
   
   <entry>
     <title>chuanzhijiankang</title>
-    <link href="https://www.xiaxingdong.com/posts/336011516.html"/>
-    <id>https://www.xiaxingdong.com/posts/336011516.html</id>
+    <link href="https://xiaxingdong.github.io/myBlog.github.io/posts/336011516.html"/>
+    <id>https://xiaxingdong.github.io/myBlog.github.io/posts/336011516.html</id>
     <published>2020-01-22T08:58:34.000Z</published>
     <updated>2020-01-22T15:25:54.266Z</updated>
     
@@ -47,23 +47,23 @@
     
       
       
-        &lt;!-- build time:Thu Jan 23 2020 01:30:50 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;传智健康项目B站版本&lt;/p&gt;&lt;p&gt;鉴于黑马培训班扣扣搜搜的样儿,一个几年的项目还收的跟宝儿一样,2万学费,项目视频都看不
+        &lt;!-- build time:Thu Jan 23 2020 01:36:06 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;传智健康项目B站版本&lt;/p&gt;&lt;p&gt;鉴于黑马培训班扣扣搜搜的样儿,一个几年的项目还收的跟宝儿一样,2万学费,项目视频都看不
       
     
     </summary>
     
     
-      <category term="ssm" scheme="https://www.xiaxingdong.com/categories/ssm/"/>
+      <category term="ssm" scheme="https://xiaxingdong.github.io/myBlog.github.io/categories/ssm/"/>
     
     
-      <category term="传智健康" scheme="https://www.xiaxingdong.com/tags/%E4%BC%A0%E6%99%BA%E5%81%A5%E5%BA%B7/"/>
+      <category term="传智健康" scheme="https://xiaxingdong.github.io/myBlog.github.io/tags/%E4%BC%A0%E6%99%BA%E5%81%A5%E5%BA%B7/"/>
     
   </entry>
   
   <entry>
     <title>bookStore2</title>
-    <link href="https://www.xiaxingdong.com/posts/1461580057.html"/>
-    <id>https://www.xiaxingdong.com/posts/1461580057.html</id>
+    <link href="https://xiaxingdong.github.io/myBlog.github.io/posts/1461580057.html"/>
+    <id>https://xiaxingdong.github.io/myBlog.github.io/posts/1461580057.html</id>
     <published>2020-01-21T08:17:55.000Z</published>
     <updated>2020-01-21T16:51:46.242Z</updated>
     
@@ -71,21 +71,21 @@
     
       
       
-        &lt;!-- build time:Thu Jan 23 2020 01:30:50 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;在bookStore项目中,采用了分布式dubbo服务部署,不知什么原因mybatis的分页插件不起作用,此次采用单纯分
+        &lt;!-- build time:Thu Jan 23 2020 01:36:06 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;在bookStore项目中,采用了分布式dubbo服务部署,不知什么原因mybatis的分页插件不起作用,此次采用单纯分
       
     
     </summary>
     
     
     
-      <category term="ssm 项目" scheme="https://www.xiaxingdong.com/tags/ssm-%E9%A1%B9%E7%9B%AE/"/>
+      <category term="ssm 项目" scheme="https://xiaxingdong.github.io/myBlog.github.io/tags/ssm-%E9%A1%B9%E7%9B%AE/"/>
     
   </entry>
   
   <entry>
     <title>spring_mvc</title>
-    <link href="https://www.xiaxingdong.com/posts/2573166209.html"/>
-    <id>https://www.xiaxingdong.com/posts/2573166209.html</id>
+    <link href="https://xiaxingdong.github.io/myBlog.github.io/posts/2573166209.html"/>
+    <id>https://xiaxingdong.github.io/myBlog.github.io/posts/2573166209.html</id>
     <published>2020-01-21T06:02:29.000Z</published>
     <updated>2020-01-21T16:51:39.922Z</updated>
     
@@ -93,23 +93,23 @@
     
       
       
-        &lt;!-- build time:Thu Jan 23 2020 01:30:50 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Springmvc从入门到粗通&quot;&gt;&lt;a href=&quot;#Springmvc从入门到粗通&quot; class=&quot;headerlink&quot; titl
+        &lt;!-- build time:Thu Jan 23 2020 01:36:06 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Springmvc从入门到粗通&quot;&gt;&lt;a href=&quot;#Springmvc从入门到粗通&quot; class=&quot;headerlink&quot; titl
       
     
     </summary>
     
     
-      <category term="框架" scheme="https://www.xiaxingdong.com/categories/%E6%A1%86%E6%9E%B6/"/>
+      <category term="框架" scheme="https://xiaxingdong.github.io/myBlog.github.io/categories/%E6%A1%86%E6%9E%B6/"/>
     
     
-      <category term="springmvc" scheme="https://www.xiaxingdong.com/tags/springmvc/"/>
+      <category term="springmvc" scheme="https://xiaxingdong.github.io/myBlog.github.io/tags/springmvc/"/>
     
   </entry>
   
   <entry>
     <title>bookStore</title>
-    <link href="https://www.xiaxingdong.com/posts/2049854560.html"/>
-    <id>https://www.xiaxingdong.com/posts/2049854560.html</id>
+    <link href="https://xiaxingdong.github.io/myBlog.github.io/posts/2049854560.html"/>
+    <id>https://xiaxingdong.github.io/myBlog.github.io/posts/2049854560.html</id>
     <published>2020-01-19T01:23:10.000Z</published>
     <updated>2020-01-21T16:51:33.389Z</updated>
     
@@ -117,23 +117,23 @@
     
       
       
-        &lt;!-- build time:Thu Jan 23 2020 01:30:50 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;黑马考试书籍旗舰店&quot;&gt;&lt;a href=&quot;#黑马考试书籍旗舰店&quot; class=&quot;headerlink&quot; title=&quot;黑马考试书籍旗舰店
+        &lt;!-- build time:Thu Jan 23 2020 01:36:06 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;黑马考试书籍旗舰店&quot;&gt;&lt;a href=&quot;#黑马考试书籍旗舰店&quot; class=&quot;headerlink&quot; title=&quot;黑马考试书籍旗舰店
       
     
     </summary>
     
     
-      <category term="项目" scheme="https://www.xiaxingdong.com/categories/%E9%A1%B9%E7%9B%AE/"/>
+      <category term="项目" scheme="https://xiaxingdong.github.io/myBlog.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
     
     
-      <category term="项目 网上书店" scheme="https://www.xiaxingdong.com/tags/%E9%A1%B9%E7%9B%AE-%E7%BD%91%E4%B8%8A%E4%B9%A6%E5%BA%97/"/>
+      <category term="项目 网上书店" scheme="https://xiaxingdong.github.io/myBlog.github.io/tags/%E9%A1%B9%E7%9B%AE-%E7%BD%91%E4%B8%8A%E4%B9%A6%E5%BA%97/"/>
     
   </entry>
   
   <entry>
     <title>vue_js</title>
-    <link href="https://www.xiaxingdong.com/posts/1619914199.html"/>
-    <id>https://www.xiaxingdong.com/posts/1619914199.html</id>
+    <link href="https://xiaxingdong.github.io/myBlog.github.io/posts/1619914199.html"/>
+    <id>https://xiaxingdong.github.io/myBlog.github.io/posts/1619914199.html</id>
     <published>2020-01-18T07:40:07.000Z</published>
     <updated>2020-01-18T10:05:35.775Z</updated>
     
@@ -141,21 +141,21 @@
     
       
       
-        &lt;!-- build time:Thu Jan 23 2020 01:30:50 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Vue-js&quot;&gt;&lt;a href=&quot;#Vue-js&quot; class=&quot;headerlink&quot; title=&quot;Vue_js&quot;&gt;&lt;/a&gt;Vue
+        &lt;!-- build time:Thu Jan 23 2020 01:36:06 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Vue-js&quot;&gt;&lt;a href=&quot;#Vue-js&quot; class=&quot;headerlink&quot; title=&quot;Vue_js&quot;&gt;&lt;/a&gt;Vue
       
     
     </summary>
     
     
     
-      <category term="前端" scheme="https://www.xiaxingdong.com/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://xiaxingdong.github.io/myBlog.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>Element_UI</title>
-    <link href="https://www.xiaxingdong.com/posts/1718488190.html"/>
-    <id>https://www.xiaxingdong.com/posts/1718488190.html</id>
+    <link href="https://xiaxingdong.github.io/myBlog.github.io/posts/1718488190.html"/>
+    <id>https://xiaxingdong.github.io/myBlog.github.io/posts/1718488190.html</id>
     <published>2020-01-18T06:21:44.000Z</published>
     <updated>2020-01-18T10:57:46.547Z</updated>
     
@@ -163,7 +163,7 @@
     
       
       
-        &lt;!-- build time:Thu Jan 23 2020 01:30:50 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Element-UI&quot;&gt;&lt;a href=&quot;#Element-UI&quot; class=&quot;headerlink&quot; title=&quot;Element
+        &lt;!-- build time:Thu Jan 23 2020 01:36:06 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Element-UI&quot;&gt;&lt;a href=&quot;#Element-UI&quot; class=&quot;headerlink&quot; title=&quot;Element
       
     
     </summary>
@@ -174,8 +174,8 @@
   
   <entry>
     <title>itcast-health</title>
-    <link href="https://www.xiaxingdong.com/posts/1547802368.html"/>
-    <id>https://www.xiaxingdong.com/posts/1547802368.html</id>
+    <link href="https://xiaxingdong.github.io/myBlog.github.io/posts/1547802368.html"/>
+    <id>https://xiaxingdong.github.io/myBlog.github.io/posts/1547802368.html</id>
     <published>2020-01-18T05:39:27.000Z</published>
     <updated>2020-01-22T10:43:56.099Z</updated>
     
@@ -183,23 +183,23 @@
     
       
       
-        &lt;!-- build time:Thu Jan 23 2020 01:30:50 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Itcast-health&quot;&gt;&lt;a href=&quot;#Itcast-health&quot; class=&quot;headerlink&quot; title=&quot;I
+        &lt;!-- build time:Thu Jan 23 2020 01:36:06 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Itcast-health&quot;&gt;&lt;a href=&quot;#Itcast-health&quot; class=&quot;headerlink&quot; title=&quot;I
       
     
     </summary>
     
     
-      <category term="itcast_health" scheme="https://www.xiaxingdong.com/categories/itcast-health/"/>
+      <category term="itcast_health" scheme="https://xiaxingdong.github.io/myBlog.github.io/categories/itcast-health/"/>
     
     
-      <category term="项目实战" scheme="https://www.xiaxingdong.com/tags/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
+      <category term="项目实战" scheme="https://xiaxingdong.github.io/myBlog.github.io/tags/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
     
   </entry>
   
   <entry>
     <title>Apache_Dubbo</title>
-    <link href="https://www.xiaxingdong.com/posts/1654987719.html"/>
-    <id>https://www.xiaxingdong.com/posts/1654987719.html</id>
+    <link href="https://xiaxingdong.github.io/myBlog.github.io/posts/1654987719.html"/>
+    <id>https://xiaxingdong.github.io/myBlog.github.io/posts/1654987719.html</id>
     <published>2020-01-16T16:36:19.000Z</published>
     <updated>2020-01-20T11:33:26.196Z</updated>
     
@@ -207,14 +207,14 @@
     
       
       
-        &lt;!-- build time:Thu Jan 23 2020 01:30:50 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Apache-Dubbo&quot;&gt;&lt;a href=&quot;#Apache-Dubbo&quot; class=&quot;headerlink&quot; title=&quot;Apa
+        &lt;!-- build time:Thu Jan 23 2020 01:36:06 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Apache-Dubbo&quot;&gt;&lt;a href=&quot;#Apache-Dubbo&quot; class=&quot;headerlink&quot; title=&quot;Apa
       
     
     </summary>
     
     
     
-      <category term="框架 分布式RPC" scheme="https://www.xiaxingdong.com/tags/%E6%A1%86%E6%9E%B6-%E5%88%86%E5%B8%83%E5%BC%8FRPC/"/>
+      <category term="框架 分布式RPC" scheme="https://xiaxingdong.github.io/myBlog.github.io/tags/%E6%A1%86%E6%9E%B6-%E5%88%86%E5%B8%83%E5%BC%8FRPC/"/>
     
   </entry>
   
