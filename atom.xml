@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.xiaxingdong.cn/"/>
-  <updated>2020-01-24T07:36:23.820Z</updated>
+  <updated>2020-01-25T07:09:12.156Z</updated>
   <id>https://www.xiaxingdong.cn/</id>
   
   <author>
@@ -17,17 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Vue.js_案例</title>
-    <link href="https://www.xiaxingdong.cn/posts/1603937355.html"/>
-    <id>https://www.xiaxingdong.cn/posts/1603937355.html</id>
-    <published>2020-01-23T13:01:13.000Z</published>
-    <updated>2020-01-24T07:36:23.820Z</updated>
+    <title>mapper代理开发模式</title>
+    <link href="https://www.xiaxingdong.cn/posts/1304579278.html"/>
+    <id>https://www.xiaxingdong.cn/posts/1304579278.html</id>
+    <published>2020-01-24T11:31:44.000Z</published>
+    <updated>2020-01-25T07:09:12.156Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Fri Jan 24 2020 15:37:26 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockqu
+        &lt;!-- build time:Sat Jan 25 2020 17:49:23 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;mapper代理开发模式&quot;&gt;&lt;a href=&quot;#mapper代理开发模式&quot; class=&quot;headerlink&quot; title=&quot;map
+      
+    
+    </summary>
+    
+    
+      <category term="Mybatis" scheme="https://www.xiaxingdong.cn/categories/Mybatis/"/>
+    
+    
+      <category term="mapper代理开发 ssm" scheme="https://www.xiaxingdong.cn/tags/mapper%E4%BB%A3%E7%90%86%E5%BC%80%E5%8F%91-ssm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue.js_案例</title>
+    <link href="https://www.xiaxingdong.cn/posts/1603937355.html"/>
+    <id>https://www.xiaxingdong.cn/posts/1603937355.html</id>
+    <published>2020-01-23T13:01:13.000Z</published>
+    <updated>2020-01-25T09:48:31.518Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Jan 25 2020 17:49:23 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockqu
       
     
     </summary>
@@ -51,7 +75,7 @@
     
       
       
-        &lt;!-- build time:Fri Jan 24 2020 15:37:26 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;&lt;p&gt;sdfsdfsdfkj&lt;/p&gt;&lt;p&gt;sdfsdf sfs
+        &lt;!-- build time:Sat Jan 25 2020 17:49:23 GMT+0800 (GMT+08:00) --&gt;&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;&lt;p&gt;sdfsdfsdfkj&lt;/p&gt;&lt;p&gt;sdfsdf sfs
       
     
     </summary>
@@ -71,7 +95,7 @@
     
       
       
-        &lt;!-- build time:Fri Jan 24 2020 15:37:26 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;传智健康项目B站版本&lt;/p&gt;&lt;p&gt;鉴于黑马培训班扣扣搜搜的样儿,一个几年的项目还收的跟宝儿一样,2万学费,项目视频都看不
+        &lt;!-- build time:Sat Jan 25 2020 17:49:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;传智健康项目B站版本&lt;/p&gt;&lt;p&gt;鉴于黑马培训班扣扣搜搜的样儿,一个几年的项目还收的跟宝儿一样,2万学费,项目视频都看不
       
     
     </summary>
@@ -95,7 +119,7 @@
     
       
       
-        &lt;!-- build time:Fri Jan 24 2020 15:37:26 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;在bookStore项目中,采用了分布式dubbo服务部署,不知什么原因mybatis的分页插件不起作用,此次采用单纯分
+        &lt;!-- build time:Sat Jan 25 2020 17:49:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;在bookStore项目中,采用了分布式dubbo服务部署,不知什么原因mybatis的分页插件不起作用,此次采用单纯分
       
     
     </summary>
@@ -117,7 +141,7 @@
     
       
       
-        &lt;!-- build time:Fri Jan 24 2020 15:37:26 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Springmvc从入门到粗通&quot;&gt;&lt;a href=&quot;#Springmvc从入门到粗通&quot; class=&quot;headerlink&quot; titl
+        &lt;!-- build time:Sat Jan 25 2020 17:49:23 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Springmvc从入门到粗通&quot;&gt;&lt;a href=&quot;#Springmvc从入门到粗通&quot; class=&quot;headerlink&quot; titl
       
     
     </summary>
@@ -141,7 +165,7 @@
     
       
       
-        &lt;!-- build time:Fri Jan 24 2020 15:37:26 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;黑马考试书籍旗舰店&quot;&gt;&lt;a href=&quot;#黑马考试书籍旗舰店&quot; class=&quot;headerlink&quot; title=&quot;黑马考试书籍旗舰店
+        &lt;!-- build time:Sat Jan 25 2020 17:49:23 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;黑马考试书籍旗舰店&quot;&gt;&lt;a href=&quot;#黑马考试书籍旗舰店&quot; class=&quot;headerlink&quot; title=&quot;黑马考试书籍旗舰店
       
     
     </summary>
@@ -159,20 +183,22 @@
     <link href="https://www.xiaxingdong.cn/posts/1619914199.html"/>
     <id>https://www.xiaxingdong.cn/posts/1619914199.html</id>
     <published>2020-01-18T07:40:07.000Z</published>
-    <updated>2020-01-23T12:56:47.529Z</updated>
+    <updated>2020-01-24T12:03:06.194Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Fri Jan 24 2020 15:37:26 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Vue-js&quot;&gt;&lt;a href=&quot;#Vue-js&quot; class=&quot;headerlink&quot; title=&quot;Vue_js&quot;&gt;&lt;/a&gt;Vue
+        &lt;!-- build time:Sat Jan 25 2020 17:49:23 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Vue-js&quot;&gt;&lt;a href=&quot;#Vue-js&quot; class=&quot;headerlink&quot; title=&quot;Vue_js&quot;&gt;&lt;/a&gt;Vue
       
     
     </summary>
     
     
+      <category term="框架" scheme="https://www.xiaxingdong.cn/categories/%E6%A1%86%E6%9E%B6/"/>
     
-      <category term="前端" scheme="https://www.xiaxingdong.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="vue" scheme="https://www.xiaxingdong.cn/tags/vue/"/>
     
   </entry>
   
@@ -187,7 +213,7 @@
     
       
       
-        &lt;!-- build time:Fri Jan 24 2020 15:37:26 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Element-UI&quot;&gt;&lt;a href=&quot;#Element-UI&quot; class=&quot;headerlink&quot; title=&quot;Element
+        &lt;!-- build time:Sat Jan 25 2020 17:49:23 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Element-UI&quot;&gt;&lt;a href=&quot;#Element-UI&quot; class=&quot;headerlink&quot; title=&quot;Element
       
     
     </summary>
@@ -207,7 +233,7 @@
     
       
       
-        &lt;!-- build time:Fri Jan 24 2020 15:37:26 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Itcast-health&quot;&gt;&lt;a href=&quot;#Itcast-health&quot; class=&quot;headerlink&quot; title=&quot;I
+        &lt;!-- build time:Sat Jan 25 2020 17:49:23 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Itcast-health&quot;&gt;&lt;a href=&quot;#Itcast-health&quot; class=&quot;headerlink&quot; title=&quot;I
       
     
     </summary>
@@ -231,7 +257,7 @@
     
       
       
-        &lt;!-- build time:Fri Jan 24 2020 15:37:26 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Apache-Dubbo&quot;&gt;&lt;a href=&quot;#Apache-Dubbo&quot; class=&quot;headerlink&quot; title=&quot;Apa
+        &lt;!-- build time:Sat Jan 25 2020 17:49:23 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Apache-Dubbo&quot;&gt;&lt;a href=&quot;#Apache-Dubbo&quot; class=&quot;headerlink&quot; title=&quot;Apa
       
     
     </summary>
