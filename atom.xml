@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.xiaxingdong.cn/"/>
-  <updated>2020-01-29T14:53:26.809Z</updated>
+  <updated>2020-01-31T18:45:58.491Z</updated>
   <id>https://www.xiaxingdong.cn/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>redis</title>
+    <link href="https://www.xiaxingdong.cn/posts/2066075671.html"/>
+    <id>https://www.xiaxingdong.cn/posts/2066075671.html</id>
+    <published>2020-01-31T18:26:51.000Z</published>
+    <updated>2020-01-31T18:45:58.491Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Feb 01 2020 05:04:01 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat --&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>FileUpload</title>
@@ -27,7 +47,7 @@
     
       
       
-        &lt;!-- build time:Sat Feb 01 2020 00:25:57 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;文件上传&quot;&gt;&lt;a href=&quot;#文件上传&quot; class=&quot;headerlink&quot; title=&quot;文件上传&quot;&gt;&lt;/a&gt;文件上传&lt;/h1&gt;
+        &lt;!-- build time:Sat Feb 01 2020 05:04:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;文件上传&quot;&gt;&lt;a href=&quot;#文件上传&quot; class=&quot;headerlink&quot; title=&quot;文件上传&quot;&gt;&lt;/a&gt;文件上传&lt;/h1&gt;
       
     
     </summary>
@@ -51,7 +71,7 @@
     
       
       
-        &lt;!-- build time:Sat Feb 01 2020 00:25:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;商品列表的CRUD案例&quot;&gt;&lt;a href=&quot;#商品列表的CRUD案例&quot; class=&quot;headerlink&quot; title=&quot;商品列表的
+        &lt;!-- build time:Sat Feb 01 2020 05:04:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;商品列表的CRUD案例&quot;&gt;&lt;a href=&quot;#商品列表的CRUD案例&quot; class=&quot;headerlink&quot; title=&quot;商品列表的
       
     
     </summary>
@@ -61,6 +81,30 @@
     
     
       <category term="商品CRUD" scheme="https://www.xiaxingdong.cn/tags/%E5%95%86%E5%93%81CRUD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mybatis_关联查询</title>
+    <link href="https://www.xiaxingdong.cn/posts/1387498655.html"/>
+    <id>https://www.xiaxingdong.cn/posts/1387498655.html</id>
+    <published>2020-01-27T06:48:27.000Z</published>
+    <updated>2020-01-31T20:29:08.009Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Feb 01 2020 05:04:01 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;在做传智健康项目的时候,检查组的编辑需要回显其所包括的检查项的信息,这就需要多表查询,而我忘了,本笔记基于张兴国讲师在讲
+      
+    
+    </summary>
+    
+    
+      <category term="mybatis" scheme="https://www.xiaxingdong.cn/categories/mybatis/"/>
+    
+    
+      <category term="关联查询" scheme="https://www.xiaxingdong.cn/tags/%E5%85%B3%E8%81%94%E6%9F%A5%E8%AF%A2/"/>
     
   </entry>
   
@@ -75,7 +119,7 @@
     
       
       
-        &lt;!-- build time:Sat Feb 01 2020 00:25:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;mapper代理开发模式&quot;&gt;&lt;a href=&quot;#mapper代理开发模式&quot; class=&quot;headerlink&quot; title=&quot;map
+        &lt;!-- build time:Sat Feb 01 2020 05:04:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;mapper代理开发模式&quot;&gt;&lt;a href=&quot;#mapper代理开发模式&quot; class=&quot;headerlink&quot; title=&quot;map
       
     
     </summary>
@@ -99,7 +143,7 @@
     
       
       
-        &lt;!-- build time:Sat Feb 01 2020 00:25:57 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockqu
+        &lt;!-- build time:Sat Feb 01 2020 05:04:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockqu
       
     
     </summary>
@@ -123,7 +167,7 @@
     
       
       
-        &lt;!-- build time:Sat Feb 01 2020 00:25:57 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;传智健康项目B站版本&lt;/p&gt;&lt;p&gt;鉴于黑马培训班扣扣搜搜的样儿,一个几年的项目还收的跟宝儿一样,2万学费,项目视频都看不
+        &lt;!-- build time:Sat Feb 01 2020 05:04:01 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;传智健康项目B站版本&lt;/p&gt;&lt;p&gt;鉴于黑马培训班扣扣搜搜的样儿,一个几年的项目还收的跟宝儿一样,2万学费,项目视频都看不
       
     
     </summary>
@@ -147,7 +191,7 @@
     
       
       
-        &lt;!-- build time:Sat Feb 01 2020 00:25:58 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;在bookStore项目中,采用了分布式dubbo服务部署,不知什么原因mybatis的分页插件不起作用,此次采用单纯分
+        &lt;!-- build time:Sat Feb 01 2020 05:04:01 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;在bookStore项目中,采用了分布式dubbo服务部署,不知什么原因mybatis的分页插件不起作用,此次采用单纯分
       
     
     </summary>
@@ -169,7 +213,7 @@
     
       
       
-        &lt;!-- build time:Sat Feb 01 2020 00:25:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;黑马考试书籍旗舰店&quot;&gt;&lt;a href=&quot;#黑马考试书籍旗舰店&quot; class=&quot;headerlink&quot; title=&quot;黑马考试书籍旗舰店
+        &lt;!-- build time:Sat Feb 01 2020 05:04:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;黑马考试书籍旗舰店&quot;&gt;&lt;a href=&quot;#黑马考试书籍旗舰店&quot; class=&quot;headerlink&quot; title=&quot;黑马考试书籍旗舰店
       
     
     </summary>
@@ -193,7 +237,7 @@
     
       
       
-        &lt;!-- build time:Sat Feb 01 2020 00:25:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Vue-js&quot;&gt;&lt;a href=&quot;#Vue-js&quot; class=&quot;headerlink&quot; title=&quot;Vue_js&quot;&gt;&lt;/a&gt;Vue
+        &lt;!-- build time:Sat Feb 01 2020 05:04:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Vue-js&quot;&gt;&lt;a href=&quot;#Vue-js&quot; class=&quot;headerlink&quot; title=&quot;Vue_js&quot;&gt;&lt;/a&gt;Vue
       
     
     </summary>
@@ -217,7 +261,7 @@
     
       
       
-        &lt;!-- build time:Sat Feb 01 2020 00:25:57 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Element-UI&quot;&gt;&lt;a href=&quot;#Element-UI&quot; class=&quot;headerlink&quot; title=&quot;Element
+        &lt;!-- build time:Sat Feb 01 2020 05:04:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Element-UI&quot;&gt;&lt;a href=&quot;#Element-UI&quot; class=&quot;headerlink&quot; title=&quot;Element
       
     
     </summary>
@@ -231,13 +275,13 @@
     <link href="https://www.xiaxingdong.cn/posts/1547802368.html"/>
     <id>https://www.xiaxingdong.cn/posts/1547802368.html</id>
     <published>2020-01-18T05:39:27.000Z</published>
-    <updated>2020-01-31T16:07:42.514Z</updated>
+    <updated>2020-01-31T18:22:49.573Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat Feb 01 2020 00:25:57 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Itcast-health&quot;&gt;&lt;a href=&quot;#Itcast-health&quot; class=&quot;headerlink&quot; title=&quot;I
+        &lt;!-- build time:Sat Feb 01 2020 05:04:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Itcast-health&quot;&gt;&lt;a href=&quot;#Itcast-health&quot; class=&quot;headerlink&quot; title=&quot;I
       
     
     </summary>
@@ -261,7 +305,7 @@
     
       
       
-        &lt;!-- build time:Sat Feb 01 2020 00:25:57 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Apache-Dubbo&quot;&gt;&lt;a href=&quot;#Apache-Dubbo&quot; class=&quot;headerlink&quot; title=&quot;Apa
+        &lt;!-- build time:Sat Feb 01 2020 05:04:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;Apache-Dubbo&quot;&gt;&lt;a href=&quot;#Apache-Dubbo&quot; class=&quot;headerlink&quot; title=&quot;Apa
       
     
     </summary>
@@ -269,27 +313,6 @@
     
     
       <category term="框架 分布式RPC" scheme="https://www.xiaxingdong.cn/tags/%E6%A1%86%E6%9E%B6-%E5%88%86%E5%B8%83%E5%BC%8FRPC/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MySQL从入门到精通</title>
-    <link href="https://www.xiaxingdong.cn/posts/275815997.html"/>
-    <id>https://www.xiaxingdong.cn/posts/275815997.html</id>
-    <published>2019-11-01T23:44:22.000Z</published>
-    <updated>2020-01-30T14:05:52.283Z</updated>
-    
-    <summary type="html">
-    
-      Here&#39;s something encrypted, password is required to continue reading.
-    
-    </summary>
-    
-    
-      <category term="MySQL" scheme="https://www.xiaxingdong.cn/categories/MySQL/"/>
-    
-    
-      <category term="数据库" scheme="https://www.xiaxingdong.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
   </entry>
   
